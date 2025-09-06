@@ -17,7 +17,7 @@ Begeistert von **Daten, Automatisierung** und **Machine Learning** verbinde ich 
 - **Sprachen & Tools**: Python, SQL  
 - **Machine Learning**: Scikit-learn, Anomalieerkennung, Datenanalyse  
 - **Automatisierung**: Python-Skripte, ETL, Prozessautomatisierung  
-- **Visualisierung**: Matplotlib, Seaborn, Dashboards  
+- **Visualisierung**: Matplotlib, Seaborn, Dashboards (Tableau)
 - **Entwicklung**: GUI-Programmierung, Data Pipelines  
 
 ---
@@ -35,8 +35,6 @@ Begeistert von **Daten, Automatisierung** und **Machine Learning** verbinde ich 
 ---
 
 ## 📌 GitHub-Projekte
-🔹 [E-Commerce Customer Clustering](#) – Kundensegmentierung & Visualisierung mit **SVG/JS**  
-🔹 [Kinder Rockstars](#) – Interaktive Lernplattform für Kinder (HTML/CSS/JS)  
 🔹 [Anomaly Detection in Aircraft Systems](#) – Isolation Forest & LOF für Predictive Maintenance  
 🔹 [Automated Reports Generator](#) – Daten in automatisierte Berichte transformieren  
 
